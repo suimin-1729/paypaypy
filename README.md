@@ -19,5 +19,8 @@ pip install git+https://github.com/suimin-1729/paypay.py.git
 
 ## AWS-WAF
 2025年11月07日、PayPayはログイン時に「Aws Waf」というBot検知システムを追加しました。<br>
-
 このライブラリは「Aws Waf」のSolve機能を搭載しており、通常通りログインできます。
+
+## クレジット
+- PayPaython-Mobile | https://github.com/taka-4602/PayPaython-mobile
+- awswaf | https://github.com/xKiian/awswaf
