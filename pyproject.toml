@@ -4,11 +4,13 @@ version = "1.0.0"
 description = "Python用のPayPay APIライブラリ"
 readme = "README.md"
 requires-python = ">=3.9"
-license = { file = "LICENSE" }
 
+# PyPI が読める形式の authors
 authors = [
     { name = "睡眠", email = "pyproject87274@dakaka.org" }
 ]
+
+license = { text = "MIT" }
 
 dependencies = [
     "pkce>=1.0.0",
